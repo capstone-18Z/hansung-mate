@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/hansung-mate/capstone-front/static/css/main.d156e9b1.css",
-    "main.js": "/hansung-mate/capstone-front/static/js/main.effeffe9.js",
-    "static/js/787.54ba1f79.chunk.js": "/hansung-mate/capstone-front/static/js/787.54ba1f79.chunk.js",
-    "static/media/HansungMatingBanner.png": "/hansung-mate/capstone-front/static/media/HansungMatingBanner.67ae0137e83a2c4e28f8.png",
-    "static/media/index.cjs": "/hansung-mate/capstone-front/static/media/index.c05687ef19f5bac24939.cjs",
-    "static/media/HansungMatingBannerM.png": "/hansung-mate/capstone-front/static/media/HansungMatingBannerM.ee704ad20bd883082d82.png",
-    "static/media/human.png": "/hansung-mate/capstone-front/static/media/human.d0ef971e86fbf0a12aa8.png",
-    "static/media/hansungmating.svg": "/hansung-mate/capstone-front/static/media/hansungmating.136981e664ac06f5a6be2d99d62aaebe.svg",
-    "static/media/slick.svg": "/hansung-mate/capstone-front/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/hansung-mate/capstone-front/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/hansung-mate/capstone-front/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/hansung-mate/capstone-front/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/hansung-mate/capstone-front/index.html",
-    "main.d156e9b1.css.map": "/hansung-mate/capstone-front/static/css/main.d156e9b1.css.map",
-    "main.effeffe9.js.map": "/hansung-mate/capstone-front/static/js/main.effeffe9.js.map",
-    "787.54ba1f79.chunk.js.map": "/hansung-mate/capstone-front/static/js/787.54ba1f79.chunk.js.map"
+    "main.css": "/static/css/main.99b9527e.css",
+    "main.js": "/static/js/main.f1c6923d.js",
+    "static/js/787.54ba1f79.chunk.js": "/static/js/787.54ba1f79.chunk.js",
+    "static/media/HansungMatingBanner.png": "/static/media/HansungMatingBanner.67ae0137e83a2c4e28f8.png",
+    "static/media/index.cjs": "/static/media/index.c05687ef19f5bac24939.cjs",
+    "static/media/HansungMatingBannerM.png": "/static/media/HansungMatingBannerM.ee704ad20bd883082d82.png",
+    "static/media/human.png": "/static/media/human.d0ef971e86fbf0a12aa8.png",
+    "static/media/hansungmating.svg": "/static/media/hansungmating.136981e664ac06f5a6be2d99d62aaebe.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.99b9527e.css.map": "/static/css/main.99b9527e.css.map",
+    "main.f1c6923d.js.map": "/static/js/main.f1c6923d.js.map",
+    "787.54ba1f79.chunk.js.map": "/static/js/787.54ba1f79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d156e9b1.css",
-    "static/js/main.effeffe9.js"
+    "static/css/main.99b9527e.css",
+    "static/js/main.f1c6923d.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.01885a1d.css",
-    "main.js": "/static/js/main.27f01d90.js",
+    "main.css": "/static/css/main.1dfd2b2f.css",
+    "main.js": "/static/js/main.ff1ed04e.js",
     "static/js/787.54ba1f79.chunk.js": "/static/js/787.54ba1f79.chunk.js",
     "static/media/HansungMatingBanner.png": "/static/media/HansungMatingBanner.67ae0137e83a2c4e28f8.png",
     "static/media/index.cjs": "/static/media/index.c05687ef19f5bac24939.cjs",
@@ -13,12 +13,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.01885a1d.css.map": "/static/css/main.01885a1d.css.map",
-    "main.27f01d90.js.map": "/static/js/main.27f01d90.js.map",
+    "main.1dfd2b2f.css.map": "/static/css/main.1dfd2b2f.css.map",
+    "main.ff1ed04e.js.map": "/static/js/main.ff1ed04e.js.map",
     "787.54ba1f79.chunk.js.map": "/static/js/787.54ba1f79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01885a1d.css",
-    "static/js/main.27f01d90.js"
+    "static/css/main.1dfd2b2f.css",
+    "static/js/main.ff1ed04e.js"
   ]
 }
